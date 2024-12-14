@@ -1,2 +1,2 @@
 <?php
-require 'getpost.php';
+require 'math.php';
