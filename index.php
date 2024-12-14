@@ -1,2 +1,2 @@
 <?php
-require 'arithmetic.php';
+require 'getpost.php';
