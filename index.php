@@ -1,2 +1,2 @@
 <?php
-require 'while-loop.php';
+require 'arrays.php';
