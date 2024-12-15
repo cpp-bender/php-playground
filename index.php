@@ -1,2 +1,2 @@
 <?php
-require 'for-loop.php';
+require 'while-loop.php';
