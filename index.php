@@ -1,2 +1,2 @@
 <?php
-require 'input.php';
+require 'include.php';
