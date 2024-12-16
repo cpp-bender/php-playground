@@ -1,2 +1,2 @@
 <?php
-require 'associated-arrays.php';
+require 'input.php';
