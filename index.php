@@ -1,2 +1,2 @@
 <?php
-require 'session.php';
+require 'server.php';
