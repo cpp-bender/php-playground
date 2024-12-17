@@ -1,2 +1,2 @@
 <?php
-require 'cookie.php';
+require 'session.php';
