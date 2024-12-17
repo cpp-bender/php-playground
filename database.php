@@ -15,6 +15,14 @@
     if($conn){
         echo "Connected <br>";
     }
+
+    $query = "INSERT INTO users (user, passwords)
+            VALUES ('cppbender', 'pizza123')";
+
+    mysqli_query($conn, $query);
+
+
+    mysqli_close($conn);
 ?>
 
 <!DOCTYPE html>
