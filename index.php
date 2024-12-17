@@ -1,2 +1,2 @@
 <?php
-require 'hashing.php';
+include ("database.php");
